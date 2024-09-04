@@ -1,4 +1,4 @@
-# Team 08 CSCI205 Project: Destinex - The International Delivery Service
+# Destinex - The International Delivery Service
 
 ## Team Members and Roles
 
